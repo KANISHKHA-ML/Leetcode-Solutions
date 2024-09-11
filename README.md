@@ -8,6 +8,7 @@ Solutions for the problems in Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -27,4 +28,8 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
