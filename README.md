@@ -6,10 +6,12 @@ Solutions for the problems in Leetcode
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
