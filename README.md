@@ -10,6 +10,7 @@ Solutions for the problems in Leetcode
 | [0031-next-permutation](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -52,4 +53,20 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
