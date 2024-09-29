@@ -69,4 +69,12 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
