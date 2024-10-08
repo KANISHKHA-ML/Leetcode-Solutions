@@ -34,6 +34,7 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0046-permutations](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0093-restore-ip-addresses](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Database
 |  |
@@ -81,6 +82,7 @@ Solutions for the problems in Leetcode
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Dynamic Programming
 |  |
