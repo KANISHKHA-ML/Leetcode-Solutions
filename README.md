@@ -84,8 +84,17 @@ Solutions for the problems in Leetcode
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [1304-longest-happy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+## Greedy
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
