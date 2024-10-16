@@ -11,6 +11,7 @@ Solutions for the problems in Leetcode
 | [0046-permutations](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0334-increasing-triplet-subsequence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 ## Hash Table
@@ -97,6 +98,7 @@ Solutions for the problems in Leetcode
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [1304-longest-happy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 ## Heap (Priority Queue)
