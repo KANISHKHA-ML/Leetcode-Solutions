@@ -75,6 +75,7 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Solutions for the problems in Leetcode
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1304-longest-happy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 ## Dynamic Programming
 |  |
