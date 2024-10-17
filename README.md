@@ -27,6 +27,7 @@ Solutions for the problems in Leetcode
 | [0151-reverse-words-in-a-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
@@ -93,6 +94,7 @@ Solutions for the problems in Leetcode
 | [0093-restore-ip-addresses](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1304-longest-happy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
@@ -100,6 +102,7 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
