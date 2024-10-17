@@ -16,6 +16,7 @@ Solutions for the problems in Leetcode
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -120,5 +122,10 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
