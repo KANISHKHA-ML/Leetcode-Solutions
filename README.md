@@ -25,6 +25,7 @@ Solutions for the problems in Leetcode
 | [0031-next-permutation](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Solutions for the problems in Leetcode
 | [0093-restore-ip-addresses](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1304-longest-happy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 ## Dynamic Programming
