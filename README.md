@@ -34,6 +34,7 @@ Solutions for the problems in Leetcode
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,6 +109,7 @@ Solutions for the problems in Leetcode
 | [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
@@ -137,4 +139,8 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
