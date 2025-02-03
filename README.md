@@ -26,6 +26,7 @@ Solutions for the problems in Leetcode
 | [2358-number-of-ways-to-split-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3429-special-array-i](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
