@@ -8,6 +8,7 @@ Solutions for the problems in Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
@@ -46,6 +47,7 @@ Solutions for the problems in Leetcode
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
