@@ -105,12 +105,14 @@ Solutions for the problems in Leetcode
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0670-maximum-swap](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0050-powx-n) |
 ## String
 |  |
@@ -169,4 +171,8 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
