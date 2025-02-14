@@ -22,6 +22,7 @@ Solutions for the problems in Leetcode
 | [0695-max-area-of-island](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1044-find-common-characters](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2358-number-of-ways-to-split-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -109,6 +110,7 @@ Solutions for the problems in Leetcode
 | [0050-powx-n](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0670-maximum-swap](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Recursion
 |  |
 | ------- |
@@ -157,6 +159,7 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 ## String Matching
@@ -175,4 +178,12 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
