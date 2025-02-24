@@ -62,6 +62,7 @@ Solutions for the problems in Leetcode
 | [0046-permutations](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0093-restore-ip-addresses](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Database
 |  |
 | ------- |
@@ -79,6 +80,7 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Solutions for the problems in Leetcode
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +147,7 @@ Solutions for the problems in Leetcode
 | [0605-can-place-flowers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
