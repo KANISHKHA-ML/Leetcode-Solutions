@@ -113,6 +113,7 @@ Solutions for the problems in Leetcode
 | [0670-maximum-swap](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Recursion
 |  |
 | ------- |
