@@ -27,6 +27,7 @@ Solutions for the problems in Leetcode
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2358-number-of-ways-to-split-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3227-find-missing-and-repeated-values](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3429-special-array-i) |
 ## Hash Table
@@ -35,6 +36,7 @@ Solutions for the problems in Leetcode
 | [0001-two-sum](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1044-find-common-characters](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1044-find-common-characters) |
+| [3227-find-missing-and-repeated-values](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Solutions for the problems in Leetcode
 | ------- |
 | [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [3227-find-missing-and-repeated-values](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +117,7 @@ Solutions for the problems in Leetcode
 | [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [3227-find-missing-and-repeated-values](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
