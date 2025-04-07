@@ -15,6 +15,7 @@ Solutions for the problems in Leetcode
 | [0283-move-zeroes](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
@@ -145,6 +146,7 @@ Solutions for the problems in Leetcode
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Greedy
 |  |
