@@ -141,6 +141,7 @@ Solutions for the problems in Leetcode
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
