@@ -142,6 +142,7 @@ Solutions for the problems in Leetcode
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Solutions for the problems in Leetcode
 | [0392-is-subsequence](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3618-find-the-original-typed-string-ii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Solutions for the problems in Leetcode
 | [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [3618-find-the-original-typed-string-ii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 ## String Matching
 |  |
 | ------- |
