@@ -116,6 +116,7 @@ Solutions for the problems in Leetcode
 | [0050-powx-n](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0670-maximum-swap](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -194,6 +195,7 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
