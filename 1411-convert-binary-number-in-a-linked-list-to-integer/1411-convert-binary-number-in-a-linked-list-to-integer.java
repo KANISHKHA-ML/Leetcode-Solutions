@@ -10,12 +10,18 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        String ans="";
-        while(head!=null){
-            ans+=(Integer.toString(head.val));
-            head=head.next;
+        // String ans="";
+        // while(head!=null){
+        //     ans+=(Integer.toString(head.val));
+        //     head=head.next;
+        // }
+        // int res=Integer.parseInt(ans,2);
+        // return res;
+        int result = head.val;
+        while (head.next != null) {
+            result = (result << 1) | head.next.val;
+            head = head.next;
         }
-        int res=Integer.parseInt(ans,2);
-        return res;
+        return result;
     }
 }
