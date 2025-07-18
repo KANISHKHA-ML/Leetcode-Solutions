@@ -26,6 +26,7 @@ Solutions for the problems in Leetcode
 | [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3227-find-missing-and-repeated-values](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -119,6 +120,7 @@ Solutions for the problems in Leetcode
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2610-closest-prime-numbers-in-range](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
@@ -126,6 +128,7 @@ Solutions for the problems in Leetcode
 | ------- |
 | [0002-add-two-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -208,4 +211,12 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
