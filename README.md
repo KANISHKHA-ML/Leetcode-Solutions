@@ -54,6 +54,7 @@ Solutions for the problems in Leetcode
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Sorting
@@ -219,4 +220,8 @@ Solutions for the problems in Leetcode
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
