@@ -27,6 +27,7 @@ Solutions for the problems in Leetcode
 | [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -222,6 +223,7 @@ Solutions for the problems in Leetcode
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Interactive
 |  |
