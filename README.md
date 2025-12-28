@@ -23,6 +23,7 @@ Solutions for the problems in Leetcode
 | [0695-max-area-of-island](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [1044-find-common-characters](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -57,6 +58,7 @@ Solutions for the problems in Leetcode
 | [0374-guess-number-higher-or-lower](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Solutions for the problems in Leetcode
 | ------- |
 | [0200-number-of-islands](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/KANISHKHA-ML/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
